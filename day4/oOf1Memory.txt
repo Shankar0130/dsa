@@ -1,0 +1,7 @@
+
+find duplicate in array
+
+logic i = 0;
+loop array
+a[i] !== a[j];
+i++;

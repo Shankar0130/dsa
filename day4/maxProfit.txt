@@ -1,0 +1,15 @@
+array of prices 
+minprice = infinity
+maxprofit = difference between minimum and by checking the current value of prices using loop
+also updated minimum in the loop
+
+twosum - 
+array nums
+target - 
+match the target 
+
+loop in nums array 
+complement = target - current value
+map use [key, value] = [array numbers, index of that nums]
+
+[map.get(complement),i]
